@@ -6,4 +6,9 @@ Kohányi Róbert <kohanyi.robert@gmail.com>
 :toc:
 
 include::2016/index.adoc[]
+
+<<<
+
 include::2017/index.adoc[]
+
+<<<
