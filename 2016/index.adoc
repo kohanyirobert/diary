@@ -5,3 +5,5 @@ include::11/2016-11-28.adoc[]
 include::11/2016-11-29.adoc[]
 
 include::11/2016-11-30.adoc[]
+
+include::12/2016-12-02.adoc[]
