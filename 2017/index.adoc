@@ -5,3 +5,5 @@ include::01/2017-01-18.adoc[]
 include::01/2017-01-21.adoc[]
 
 include::01/2017-01-23.adoc[]
+
+include::01/2017-01-24.adoc[]
