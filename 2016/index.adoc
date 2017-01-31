@@ -11,3 +11,7 @@ include::12/2016-12-02.adoc[]
 include::12/2016-12-05.adoc[]
 
 include::12/2016-12-06.adoc[]
+
+include::12/2016-12-07.adoc[]
+
+include::12/2016-12-14.adoc[]
