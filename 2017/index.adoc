@@ -25,3 +25,5 @@ include::02/2017-02-12.adoc[]
 include::02/2017-02-14.adoc[]
 
 include::02/2017-02-22.adoc[]
+
+include::02/2017-02-27.adoc[]
